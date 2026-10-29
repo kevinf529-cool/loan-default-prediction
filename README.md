@@ -96,3 +96,15 @@ A model like this would be more appropriate as a decision-support tool than as t
 - Feature importance
 - Data leakage prevention
 - Responsible model interpretation
+
+## Project Files
+
+- [Loan Default Prediction Notebook](Loan%20Default%20Prediction.ipynb) - Python analysis covering data exploration, cleaning, preprocessing, model development, evaluation, and feature importance.
+
+## Reproducibility
+
+The notebook uses the Credit Risk Dataset, loaded from a file named `credit_risk_dataset.csv`.
+
+To reproduce the analysis, obtain the dataset, place the CSV file in the same directory as the notebook, install the required Python libraries, and run the notebook cells in order.
+
+The dataset is not currently included in this repository.
